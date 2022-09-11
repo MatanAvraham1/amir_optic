@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>276074724663-jbocdkibcm6uhta13ip4evq6akr3e70n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.276074724663-jbocdkibcm6uhta13ip4evq6akr3e70n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBa9gmaklJAQN_nY9ZbKmqHwBIrSgXXSAw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>276074724663</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.amirOptic</string>
+	<key>PROJECT_ID</key>
+	<string>amir-optic-3d2fd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>amir-optic-3d2fd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:276074724663:ios:cb372338a54f63eca7eeb2</string>
+</dict>
+</plist>

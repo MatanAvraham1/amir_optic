@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "276074724663",
+    "project_id": "amir-optic-3d2fd",
+    "storage_bucket": "amir-optic-3d2fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276074724663:android:a2a42381f0197c08a7eeb2",
+        "android_client_info": {
+          "package_name": "com.example.amir_optic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276074724663-7j0j47of9jp545dgi0tev6k81hda2sho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmt5uUelI79jgCnG4PUlGwS-n3sBd3IQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276074724663-7j0j47of9jp545dgi0tev6k81hda2sho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276074724663-jbocdkibcm6uhta13ip4evq6akr3e70n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.amirOptic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

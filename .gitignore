@@ -1,0 +1,9 @@
+python/
+amir_optic before firstName and lastName
+amir_optic with mongodb
+
+amir_optic/firebase.json
+amir_optic/.firebase
+amir_optic/.firebaserc
+
+amir_optic/lib/firebase_options.dart
